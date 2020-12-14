@@ -1,0 +1,9 @@
+C:\Users\Matija\source\repos\tomcMatijaPolugodišnjiZadatak\tomcMatijaPolugodišnjiZadatak\bin\Debug\tomcMatijaPolugodišnjiZadatak.exe.config
+C:\Users\Matija\source\repos\tomcMatijaPolugodišnjiZadatak\tomcMatijaPolugodišnjiZadatak\bin\Debug\tomcMatijaPolugodišnjiZadatak.exe
+C:\Users\Matija\source\repos\tomcMatijaPolugodišnjiZadatak\tomcMatijaPolugodišnjiZadatak\bin\Debug\tomcMatijaPolugodišnjiZadatak.pdb
+C:\Users\Matija\source\repos\tomcMatijaPolugodišnjiZadatak\tomcMatijaPolugodišnjiZadatak\obj\Debug\tomcMatijaPolugodišnjiZadatak.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaPolugodišnjiZadatak\tomcMatijaPolugodišnjiZadatak\obj\Debug\tomcMatijaPolugodišnjiZadatak.Form1.resources
+C:\Users\Matija\source\repos\tomcMatijaPolugodišnjiZadatak\tomcMatijaPolugodišnjiZadatak\obj\Debug\tomcMatijaPolugodišnjiZadatak.Properties.Resources.resources
+C:\Users\Matija\source\repos\tomcMatijaPolugodišnjiZadatak\tomcMatijaPolugodišnjiZadatak\obj\Debug\tomcMatijaPolugodišnjiZadatak.csproj.GenerateResource.cache
+C:\Users\Matija\source\repos\tomcMatijaPolugodišnjiZadatak\tomcMatijaPolugodišnjiZadatak\obj\Debug\tomcMatijaPolugodišnjiZadatak.exe
+C:\Users\Matija\source\repos\tomcMatijaPolugodišnjiZadatak\tomcMatijaPolugodišnjiZadatak\obj\Debug\tomcMatijaPolugodišnjiZadatak.pdb
