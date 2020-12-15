@@ -23,7 +23,7 @@ namespace tomcMatijaPolugodišnjiZadatak
             this.Spol = spol;
         }
 
-        // Sve osobe koje imaju ime "Ana" dobijaju dodatni status nakon obrade "Banana", sve muške osobe dobijaju status "gaser", a sve osobe mlađe od 18 godina "mulac".
+        
         public void ImaLiBrkove()
         {
             if (this.Spol == "M")
